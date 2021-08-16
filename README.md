@@ -1,2 +1,0 @@
-# revoltbot
-revolt.chat bot.
